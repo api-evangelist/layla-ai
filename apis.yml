@@ -1,0 +1,86 @@
+aid: layla-ai
+url: https://raw.githubusercontent.com/api-evangelist/layla-ai/refs/heads/main/apis.yml
+name: Layla AI
+kind: company
+description: >-
+  Layla is an AI travel agent that plans trips conversationally, generating
+  itineraries with flights, hotels, activities, and restaurants wired into real
+  booking inventory from partners such as Booking.com and Skyscanner. The
+  consumer product is at layla.ai; a Layla for Brands white-label offering lets
+  travel companies embed an AI travel agent into their own site with their own
+  branding and inventory.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - AI
+  - Travel
+  - Itinerary Planning
+  - Conversational AI
+  - White Label
+  - Booking
+  - Consumer
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis:
+  - aid: layla-ai:consumer-app
+    name: Layla Consumer AI Travel Agent
+    description: >-
+      Consumer-facing conversational AI travel planner available on the web and
+      as mobile apps. Builds day-by-day itineraries, surfaces flight and hotel
+      pricing, and routes bookings through partner inventory. No public API.
+    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    humanURL: https://layla.ai/
+    baseURL: https://layla.ai
+    tags:
+      - Consumer
+      - Itinerary
+      - Chat
+      - Mobile
+    properties:
+      - type: ProductPage
+        url: https://layla.ai/
+      - type: About
+        url: https://layla.ai/about
+      - type: Contact
+        url: https://layla.ai/contact
+  - aid: layla-ai:layla-for-brands
+    name: Layla for Brands (White Label)
+    description: >-
+      White-label AI travel agent that travel companies can embed on their own
+      site, customized with brand voice, colors, and inventory. Marketed as a
+      low-code / no-code deployment with commission share on bookings. Public
+      details are sales-led; technical integration documentation is gated
+      behind a demo request.
+    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    humanURL: https://layla.ai/partners
+    baseURL: https://layla.ai
+    tags:
+      - Partners
+      - White Label
+      - Enterprise
+      - Embedded
+    properties:
+      - type: PartnersPage
+        url: https://layla.ai/partners
+      - type: Enterprise
+        url: https://enterprise.layla.ai
+common:
+  - type: Website
+    url: https://layla.ai/
+  - type: About
+    url: https://layla.ai/about
+  - type: Partners
+    url: https://layla.ai/partners
+  - type: Newsletter
+    url: https://justasklayla.substack.com/
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/layla-7376
+  - type: Plans
+    url: plans/layla-ai-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/layla-ai-rate-limits.yml
+  - type: FinOps
+    url: finops/layla-ai-finops.yml
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
