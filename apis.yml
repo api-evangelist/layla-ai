@@ -81,6 +81,8 @@ common:
     url: rate-limits/layla-ai-rate-limits.yml
   - type: FinOps
     url: finops/layla-ai-finops.yml
+  - type: LLMsTxt
+    url: https://layla.ai/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
