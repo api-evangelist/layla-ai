@@ -65,6 +65,10 @@ apis:
       - type: Enterprise
         url: https://enterprise.layla.ai
 common:
+  - type: VulnerabilityDisclosure
+    url: security/layla-ai-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/layla-ai-domain-security.yml
   - type: Website
     url: https://layla.ai/
   - type: About
@@ -83,6 +87,8 @@ common:
     url: finops/layla-ai-finops.yml
   - type: LlmsText
     url: https://layla.ai/llms.txt
+  - type: Blog
+    url: https://justasklayla.substack.com/feed
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
