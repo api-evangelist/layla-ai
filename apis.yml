@@ -9,7 +9,19 @@ description: >-
   consumer product is at layla.ai; a Layla for Brands white-label offering lets
   travel companies embed an AI travel agent into their own site with their own
   branding and inventory.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: free
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Free
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/layla-ai.png
 tags:
   - AI
   - Travel
@@ -19,30 +31,9 @@ tags:
   - Booking
   - Consumer
 created: '2026-05-23'
-modified: '2026-05-23'
+modified: '2026-07-25'
 specificationVersion: '0.19'
 apis:
-  - aid: layla-ai:consumer-app
-    name: Layla Consumer AI Travel Agent
-    description: >-
-      Consumer-facing conversational AI travel planner available on the web and
-      as mobile apps. Builds day-by-day itineraries, surfaces flight and hotel
-      pricing, and routes bookings through partner inventory. No public API.
-    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
-    humanURL: https://layla.ai/
-    baseURL: https://layla.ai
-    tags:
-      - Consumer
-      - Itinerary
-      - Chat
-      - Mobile
-    properties:
-      - type: ProductPage
-        url: https://layla.ai/
-      - type: About
-        url: https://layla.ai/about
-      - type: Contact
-        url: https://layla.ai/contact
   - aid: layla-ai:layla-for-brands
     name: Layla for Brands (White Label)
     description: >-
