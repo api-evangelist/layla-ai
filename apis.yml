@@ -32,7 +32,7 @@ tags:
   - Consumer
 created: '2026-05-23'
 modified: '2026-07-25'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: layla-ai:layla-for-brands
     name: Layla for Brands (White Label)
