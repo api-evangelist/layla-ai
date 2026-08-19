@@ -1,0 +1,35 @@
+# Layla
+
+> Layla (layla.ai) is an AI travel agent: you describe the trip you want in chat, and Layla plans the itinerary, prices and finds flights, hotels and activities, and helps you book. Layla is human-in-the-loop: a real human travel expert can review the plan, check feasibility, fine-tune the logistics and even book the trip for you at no extra cost. The site is available in English (default) and under the /es, /fr, /it, /zh, /de, /pt, /ru, /ar and /pl locale paths.
+
+## Product
+
+- [Layla — AI trip planner & travel agent](https://layla.ai/): Chat-based travel planning: personalized itineraries, flights, hotels and activities in one place.
+- [Plan a trip with Layla](https://layla.ai/chat): The planning chat. Tell Layla where, when and how you like to travel, and it builds the trip with you.
+- [Couples trip planner](https://layla.ai/plan/couple-trip-planner): Romantic trips made simple — custom itineraries, destinations and stays for two.
+- [Family vacation planner](https://layla.ai/plan/family-vacation-trip-planner): Family trips planned end to end: itineraries, road trips, flights and hotels.
+- [Roam Around](https://layla.ai/roamaround): Roam Around's AI travel itineraries are now part of Layla.
+
+## Blog — AI travel planning guides
+
+- [AI Travel Planners Tested: Which One Works Best?](https://layla.ai/blog/news-and-tips/ai-travel-planners-comparison): Hands-on comparison of the leading AI trip planners, with an honest look at strengths and trade-offs.
+- [The Best AI Travel Agent](https://layla.ai/blog/news-and-tips/best-ai-travel-agent): What separates an AI travel agent from a trip planner — and where a real human agent fits in.
+- [The Best Free AI Trip Planner](https://layla.ai/blog/news-and-tips/best-free-ai-trip-planner): What's actually free in AI trip planners, and what's not.
+- [The Best AI Road Trip Planner](https://layla.ai/blog/news-and-tips/best-ai-road-trip-planner): From route planning to a booked road trip.
+- [The Best AI for Luxury Travel Planning](https://layla.ai/blog/news-and-tips/best-ai-for-luxury-travel-planning): How AI planners handle high-end trips, and what to look for.
+- [How to Make a Trip Itinerary with AI](https://layla.ai/blog/news-and-tips/how-to-make-a-trip-itinerary-with-ai): A free step-by-step guide to building a day-by-day itinerary.
+- [ETIAS & EES Explained](https://layla.ai/blog/news-and-tips/etias-ees-europe-entry-rules): Europe's new entry rules and what they mean for your trip planning.
+- [UK ETA Explained](https://layla.ai/blog/news-and-tips/uk-eta-guide): Who needs the UK ETA, what it costs and how to apply.
+- [US ESTA Explained](https://layla.ai/blog/news-and-tips/us-esta-guide): Who needs an ESTA, what it costs and how to apply.
+- [Bali Tourist Tax Explained](https://layla.ai/blog/news-and-tips/bali-tourist-tax): What the tax costs and how to pay it.
+- [Layla travel blog](https://layla.ai/blog): All travel guides, comparisons and tips.
+
+## Company
+
+- [About Layla](https://layla.ai/about): Who Layla is and how the product works.
+- [Contact](https://layla.ai/contact): Contacts for press and general enquiries.
+
+## Legal
+
+- [Privacy Policy](https://layla.ai/privacypolicy): Layla AI GmbH privacy policy.
+- [Terms of Service](https://layla.ai/terms): Layla chatbot terms of service.
