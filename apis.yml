@@ -9,6 +9,17 @@ description: >-
   consumer product is at layla.ai; a Layla for Brands white-label offering lets
   travel companies embed an AI travel agent into their own site with their own
   branding and inventory.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: free
   onboarding: unknown
